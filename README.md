@@ -6,7 +6,7 @@ Codigos em HTML;
 Banco de Dados;
 Modelagem de Sistema.
 
-## Tecnologias que eu uso no meu dia
+## Uso diariamente
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
