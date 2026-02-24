@@ -1,14 +1,14 @@
 <img src="skeleton-dancing.gif" width="1200" height="600" />
 
-## Olá! Eu sou o Lucas Boeing
+# Olá! Eu sou o Lucas Boeing
 
-Estudo no Escola SESI/SENAI de Referencia, gosto de desenhar pixel art. <br/>
-Aprendendo sobre: <br/>
-Codigos em HTML; <br/>
-Banco de Dados; <br/>
-Modelagem de Sistema. <br/>
+## Estudo no Escola SESI/SENAI de Referencia, gosto de desenhar pixel art. <br/>
+## Aprendendo sobre: <br/>
+## Codigos em HTML; <br/>
+## Banco de Dados; <br/>
+## Modelagem de Sistema. <br/>
 
-## Uso todos os dias
+# Uso todos os dias
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
