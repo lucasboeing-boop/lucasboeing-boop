@@ -14,7 +14,7 @@ Modelagem de Sistema.
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
-## Desenvolvedor aprendiz apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+## Desenvolvedor aprendiz apaixonado por compartilhar conhecimento e desenhar em pixel art.
 
 Meu Github 👉 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lucasboeing-boop) <br/>
 Gmail para contato 👉 
