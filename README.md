@@ -1,4 +1,4 @@
-<img src="skeleton-dancing.gif" width="3000" />
+<img src="skeleton-dancing.gif" width="1200" height="600" />
 
 ## Olá! Eu sou o Lucas Boeing
 
