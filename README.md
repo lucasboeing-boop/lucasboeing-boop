@@ -12,7 +12,7 @@ Modelagem de Sistema.
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div><br/>
 
-[![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)]
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
 ## Desenvolvedor aprendiz apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
 
