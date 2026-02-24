@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Lucas Boeing
 
-Estudo no Escola SESI/SENAI de Referencia, gosto de desenhar pixel art.
-Aprendendo sobre:
-Codigos em HTML;
-Banco de Dados;
-Modelagem de Sistema.
+Estudo no Escola SESI/SENAI de Referencia, gosto de desenhar pixel art. <br/>
+Aprendendo sobre: <br/>
+Codigos em HTML; <br/>
+Banco de Dados; <br/>
+Modelagem de Sistema. <br/>
 
 ## Uso todos os dias
 
