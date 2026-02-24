@@ -1,3 +1,5 @@
+<img src="skeleton-dancing.gif" width="3000" />
+
 ## Olá! Eu sou o Lucas Boeing
 
 Estudo no Escola SESI/SENAI de Referencia, gosto de desenhar pixel art. <br/>
