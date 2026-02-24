@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Lucas Boeing
 
 Estudo no Escola SESI/SENAI de Referencia;
-Aprendendo sobre HTML, Banco de Dados e Modelagem de Sistema
+Aprendendo sobre:
+Codigos em HTML;
+Banco de Dados;
+Modelagem de Sistema.
 
 ## Tecnologias que eu uso no meu dia
 
