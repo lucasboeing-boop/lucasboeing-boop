@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Lucas Boeing
 
-## Estudo no Escola SESI/SENAI de Referencia, gosto de desenhar pixel art. <br/>
+## Estudo na Escola SESI/SENAI de Referencia, gosto de desenhar pixel art. <br/>
 Aprendendo sobre: <br/>
 Codigos em HTML; <br/>
 Banco de Dados; <br/>
